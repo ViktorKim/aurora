@@ -1,0 +1,20 @@
+{
+  "name": "aurora",
+  "homepage": "https://github.com/ViktorKim/aurora",
+  "authors": [
+    "Viktor Kim <fake2spam@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.3"
+  }
+}
